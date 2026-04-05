@@ -1,0 +1,14 @@
+[
+    {
+        "session_id": "session-1",
+        "host_id": "host-demo-1",
+        "title": "MISY350 Debugging Night",
+        "category": "Study Session",
+        "date": "2026-04-15",
+        "time": "6:00 PM",
+        "location": "Morris Library Room 114",
+        "description": "Bring your Streamlit bugs and we will work through them together.",
+        "status": "Open",
+        "created_at": "2026-04-05 16:39:21.823829"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "user_id": "host-demo-1",
+        "full_name": "Demo Host",
+        "email": "host@udel.edu",
+        "password": "host123",
+        "role": "Host",
+        "registered_at": "2026-04-05 16:39:21.818901"
+    },
+    {
+        "user_id": "contrib-demo-1",
+        "full_name": "Demo Contributor",
+        "email": "student@udel.edu",
+        "password": "student123",
+        "role": "Contributor",
+        "registered_at": "2026-04-05 16:39:21.818901"
+    },
+    {
+        "user_id": "1c5b2485-1c9e-4437-8f70-abc4f4b35ebe",
+        "full_name": "milan pathak",
+        "email": "milanpa@udel.edu",
+        "password": "gizmo",
+        "role": "Contributor",
+        "registered_at": "2026-04-05 16:39:57.666501"
+    }
+]

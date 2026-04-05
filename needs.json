@@ -1,0 +1,18 @@
+[
+    {
+        "need_id": "need-1",
+        "session_id": "session-1",
+        "item_name": "Extension Cord",
+        "quantity_needed": 2,
+        "quantity_claimed": 1,
+        "notes": "Any length is fine"
+    },
+    {
+        "need_id": "need-2",
+        "session_id": "session-1",
+        "item_name": "Practice Questions",
+        "quantity_needed": 5,
+        "quantity_claimed": 0,
+        "notes": "Printed or digital"
+    }
+]
